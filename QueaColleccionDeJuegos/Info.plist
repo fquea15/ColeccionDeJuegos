@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>NSCameraUsageDescription</key>
+	<string>La aplicacion Coleccion de Juegos necesita acceso a la camara =)</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>La aplicacion de coleccion de juegos necesita acceso a tus imagenes =)</string>
 	<key>UIApplicationSceneManifest</key>
